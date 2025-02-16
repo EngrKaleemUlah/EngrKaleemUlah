@@ -27,8 +27,8 @@
 
 - 🤝 I’m looking to collaborate on **Data and analytic using Deep learning, vision transformer, Diffusion models, and multimodal LLMs.**
 
-- 📫 How to reach me **📧 kaleemullah@sju.ac.kr, 📧 kaleem.sejong@gmail.com, 🎓 https://scholar.google.com/citations?hl=en&user=Mh7Xau8AAAAJ**
-
+- 📫 How to reach me **Email: 📧 kaleem.sejong@gmail.com, 🎓 <a href ="https://scholar.google.com/citations?hl=en&user=Mh7Xau8AAAAJ" target="blank"> Google Scholar, 
+<a href ="https://orcid.org/0009-0000-6846-8572" target="blank">ORCID** ![image](https://github.com/user-attachments/assets/0a1d3e6e-b621-4021-9d0b-2b18f830b0fa)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/engrkaleemullah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kaleem Ullah" height="30" width="40" /></a>
