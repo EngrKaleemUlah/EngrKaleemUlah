@@ -65,19 +65,11 @@
     </a>
     <a href="https://orcid.org/0009-0000-6846-8572"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
     </a>
-
-    
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EngrKaleemUlah&show_icons=true&locale=en&layout=compact" alt="EngrKaleemUlah" /></p></a>
-<!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EngrKaleemUlah&theme=dracula" alt="This is probl" /></p>--->
-<details>
-<summary>📈 Stats</summary>
-<br>
-    <h2>My Github Stats</h2>
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngrKaleemUlah&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EngrKaleemUlah&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EngrKaleemUlah&theme=dracula)
-</details>
+<!--- Summary --->
+<h2> &#x1f4c8; GitHub Stats</h2><br>
+<div align="center">
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api username=EngrKaleemUlah&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
+<img align="" height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=EngrKaleemUlah&hide_border=true&background=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" alt="GitHub Streak" />
+</div>
