@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=100&color=00CC00&multiline=true&width=750&height=150&lines=Kaleem+Ullah;BS+in+Software+Engineering+%7C+Graduate+Computer+Vision+%7C+AI+Researcher+%7C+ML+%7C+DL+%7C+Transformers+%7C+VITs;Computer+Vision+%7C+Video+Analytics" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5000&pause=200&color=00CC00&multiline=true&width=750&height=150&lines=Kaleem+Ullah;BS+in+Software+Engineering+%7C+Graduate+Computer+Vision+%7C+AI+Researcher;ML+%7C+DL+%7C+Transformers+%7C+Video+Analytics+%7C+Multimodal+Retrieval;Materials+Science+%7C+Material+Informatics+%7C" alt="Typing SVG" />
   </a>
 </p>
+
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EngrKaleemUlah&label=Profile%20views&color=0e75b6&style=flat" alt="Kaleem Ullah" /> </p>
